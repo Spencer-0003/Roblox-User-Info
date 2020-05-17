@@ -1,2 +1,2 @@
-# Roblox-User-Info
+# Roblox User Info
 Gets the info of any player.
